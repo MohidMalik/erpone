@@ -1,0 +1,6 @@
+{
+  "appId": "com.erpone.app",
+  "appName": "ERPOne",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

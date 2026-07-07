@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Business ERP & Management System",
+  "description": "A comprehensive SaaS platform to manage multiple independent companies from a single login, featuring modules for employees, clients, projects, tasks, expenses, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
